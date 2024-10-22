@@ -1,0 +1,702 @@
+question,reference_answer,reference_context,metadata
+"What are the available modes of depositing amount towards tax, interest, penalty, fees or any other amount under FORM GST PMT-06?","The deposit can be made through the following modes: Internet banking through authorised banks, Unified Payment Interface (UPI) from any bank, Immediate Payment Services (IMPS) from any bank, Credit card or Debit card through the authorised bank, National Electronic Fund Transfer or Real Time Gross Settlement from any bank.","Document 25: (a) Government Departments or a ny other deposit to be made by 
+persons as may be notified by the Commi ssioner in this behalf;  
+ (b) Proper officer or any other officer authorised to recover 
+outstanding dues from any person, whether registered or not, 
+including recovery made through attach ment or sale of movable 
+or immovable properties; 
+ (c) Proper officer or any other officer authorised for the amounts 
+collected by way of cash, cheque or demand draft during any 
+investigation or enforcement activity or any ad hoc deposit:  
+  Provided that the challan in FORM GST PMT-06 generated at 
+the common portal shall be valid for a period of 15 days.  
+Provided further that a person supplying online information and database 
+access or retrieval services from a place outside India to a non -taxable 
+online recipient referred to in section 14  or a person supplying online  
+money gaming from a place outside India to a person in India as referred
+
+Document 23: interest, penalty, late fee or any other amount, on the common portal for 
+crediting the amount deposited and debiting the payment there from 
+towards tax, interest, penalty, fee or any other amount.  
+ (2) Any person, or a person on his behalf, shall generate a cha llan in FORM 
+GST PMT-06 on the common portal and enter the details of the amount 
+to be deposited by him towards tax, interest, pen alty, fees or any other 
+amount. 
+  Provided that the challan in FORM GST PMT -06 generated at the 
+common portal shall be valid for a period of fifteen days.  
+ (3) The deposit under sub -rule (2) shall be made through any of the 
+following modes, namely:— 
+ (i) Internet banking through authorised banks;  
+ (ia)  Unified Payment Interface (UPI) from any bank;  
+ (ib)  Immediate Payment Services (IMPS) from any bank;]  
+ (ii) Credit card or Debit card through the authorised bank;  
+ (iii) National Electronic Fund Transfer o r Real Time Gross Settl ement 
+from any bank; or","{'question_type': 'simple', 'seed_document_id': 25, 'topic': 'GST Taxation Procedures'}"
+What is the maximum proportion of output tax liability that can be discharged through the electronic credit ledger?,The Government may specify the maximum proportion of output tax liability which may be discharged through the electronic credit ledger for specified class of registered persons. The balance has to be paid through the electronic cash ledger.,"Document 44: ITC Credit to be Set off  Manner of Utilisation of ITC  
+IGST Output IGST Input > CGST Input > SGST 
+Input 
+CGST Output IGST Input > CGST Input  
+SGST Output IGST Input > SGST Input  
+CBIC, CIRCULAR  
+18. Clarification on utilisation of the amounts avai lable in the electronic 
+credit ledger and electronic cash ledger for payme nt of tax and other 
+liabilities 
+➢ It is clarified that any payment towards output tax, whether self -assessed 
+in the return or payable as a consequence of any proceeding instituted 
+under the provisions of GST Laws, can be made by utilization of the 
+amount available in the electronic credit ledger of a registered person. 
+Section 49(2) of the CGST Act.  
+➢ It is further reiterated that as output tax does not include tax payable 
+under RCM thereby the electronic credit ledger cannot be used for 
+making payment of any tax which is payable under RCM.  
+➢ Section 49(4), the electronic credit ledger cannot be used for making
+
+Document 4: (4) The amount available in the electronic credit ledger may be used for 
+making any payment towards output tax under this Act or under the 
+Integrated Goods and Services Tax Act in such manner and subject to 
+such conditions and within such time as may be pr escribed. 
+ (5) The amount of input tax credit available in the electronic credit ledger of 
+the registered person shall be utilized as per prescribed provisions. 
+Accordingly, credit on account of IGST, CGST, SGST and UTGS T shall 
+be utilized and adjusted in the ledger. 
+ (6) The balance in the electronic cash ledger or electronic credit ledger after 
+payment of tax, interest, penalty, fee or any other amount payable under 
+this Act or the rules made thereunder may be refunded in accordance 
+with the provisions of Section 54.  
+ (7) All liabilities of a taxable person under this Act shall be re corded and 
+maintained in an electronic liability register in such manner as may be 
+prescribed.
+
+Document 7: (11)  where any amount has been transferred to the electronic cash ledger 
+under this Act, the same shall be deemed to be deposited in the said 
+ledger as provided in sub -section (1).” Notified vide Notification 
+No.1/2020-Central Tax dated 1.1.20 20. 
+ (12)  Maximum payment of output taxes allowed from electronic ledger:  The 
+Government may specify the maximum propo rtion of output tax liability 
+which may be discharged through the electronic credit ledger for 
+specified class of registered persons. The  balance has to be paid through 
+the electronic cash ledger. Vide Notification No. 18/2022-Central Tax, 
+dated 28.09.2022. 
+3. Utilisation of input tax credit subject to certain cond itions - Section 49A of 
+CGST Act 
+Notwithstanding anything contained in sectio n 49, the input tax credit on 
+account of central tax, State tax or Union territory tax shall be utilised towards 
+payment of integrated tax, central tax, State tax or Union territory tax, as the case
+
+Document 3: 2. Statutory provisions for payment of Tax 
+Section 49 of the CGST Act, 2017 has prescribed the manner of payment of 
+tax, interest, penalty and other amounts in the following ways: 
+ (1) Every deposit made by a person by internet banking or by using 
+prescribed mode of payment or cash (OTC) shall be credited to the  
+electronic cash ledger of such person to be maintained in such manne r as 
+may be prescribed. 
+ (2) The input tax credit as self -assessed in the return of a regi stered person 
+shall be credited to his electronic credit ledger, in accordance with 
+Section 41; to be maintained in such manner as may be prescribed.  
+ (3) The amount available in the electronic cash ledger may be used for 
+making any payment towards tax, interest, penalty, fees or any other 
+amount payable under the provisions of this Act or the rules made 
+thereunder in such manner and subject to such conditions and with in 
+such time as may be prescribed.","{'question_type': 'simple', 'seed_document_id': 44, 'topic': 'GST Taxation Procedures'}"
+"What are the various modes of deposit for tax, interest, penalty, fee or any other amount as per GST rules?","The deposit can be made through any of the following modes: Internet banking through authorised banks, Unified Payment Interface (UPI) from any bank, Immediate Payment Services (IMPS) from any bank, Credit card or Debit card through the authorised bank, National Electronic Fund Transfer or Real Time Gross Settlement from any bank.","Document 23: interest, penalty, late fee or any other amount, on the common portal for 
+crediting the amount deposited and debiting the payment there from 
+towards tax, interest, penalty, fee or any other amount.  
+ (2) Any person, or a person on his behalf, shall generate a cha llan in FORM 
+GST PMT-06 on the common portal and enter the details of the amount 
+to be deposited by him towards tax, interest, pen alty, fees or any other 
+amount. 
+  Provided that the challan in FORM GST PMT -06 generated at the 
+common portal shall be valid for a period of fifteen days.  
+ (3) The deposit under sub -rule (2) shall be made through any of the 
+following modes, namely:— 
+ (i) Internet banking through authorised banks;  
+ (ia)  Unified Payment Interface (UPI) from any bank;  
+ (ib)  Immediate Payment Services (IMPS) from any bank;]  
+ (ii) Credit card or Debit card through the authorised bank;  
+ (iii) National Electronic Fund Transfer o r Real Time Gross Settl ement 
+from any bank; or
+
+Document 25: (a) Government Departments or a ny other deposit to be made by 
+persons as may be notified by the Commi ssioner in this behalf;  
+ (b) Proper officer or any other officer authorised to recover 
+outstanding dues from any person, whether registered or not, 
+including recovery made through attach ment or sale of movable 
+or immovable properties; 
+ (c) Proper officer or any other officer authorised for the amounts 
+collected by way of cash, cheque or demand draft during any 
+investigation or enforcement activity or any ad hoc deposit:  
+  Provided that the challan in FORM GST PMT-06 generated at 
+the common portal shall be valid for a period of 15 days.  
+Provided further that a person supplying online information and database 
+access or retrieval services from a place outside India to a non -taxable 
+online recipient referred to in section 14  or a person supplying online  
+money gaming from a place outside India to a person in India as referred
+
+Document 28: (8) Where the bank accoun t of the person concerned, or the pe rson making 
+the deposit on his behalf, is debited but no Challan Identification Number 
+is generated or generated but not communicated to the common portal, 
+the said person may represent electronically in FORM GST PMT-07 
+through the common portal to the bank or electronic gateway through 
+which the deposit was initiated.  
+“Provided that where the bank fails to communicate details of Challan  
+Identification Number to the Common Portal, the Electronic Cash Ledger 
+may be updated on the basis of e-Scroll of the Reserve Bank of India in 
+cases where the details of the said e -Scroll are in conformity with the 
+details in challan generated in FORM GST PMT -06 on the Common 
+Portal.” 
+(9) Any amount deducted under section 51 or collected under  section 52 and 
+claimed by the registered taxable person from whom the said amount 
+was deducted or, as the case may be, collected shall be credited to his
+
+Document 30: file an appeal. 
+ (13)  A registered person may, on the common portal, transfer any amount of 
+tax, interest, penalty, fee or any other amount available in the electronic 
+cash ledger under the Act to the electronic cash ledger for integrated tax, 
+central tax, State tax or Union territory tax or cess in FORM GST PMT-
+09. 
+ (14) Cash deposits in electronic cash ledger in GST portal, now can be 
+made through UPI and IMPS payment m odes. 
+A registered person may, on the common portal, transfer any amount of 
+tax, interest, penalty, fee or any other amount available in the  electronic 
+cash ledger under the Act  to the electronic cash ledger for central tax or","{'question_type': 'simple', 'seed_document_id': 23, 'topic': 'GST Taxation Procedures'}"
+Under what specific circumstances does the limitation on the utilization of the balance in the electronic credit ledger cease to be effective?,"The restriction ceases to have effect after the expiry of a period of one year from the date of imposing such restriction, or when the Commissioner, or the officer authorised by him under sub-rule (1), is satisfied that conditions for disallowing debit of electronic credit ledger no longer exist.","Document 18: refund shall be deemed to be rejected, if the appeal is finally rejected or if the 
+claimant gives an undertaking to the proper officer that he shall not file an 
+appeal. 
+9. Conditions of use of amount available in electronic credit led ger - Rule 
+86A CGST Rules 
+(1) The Commissioner or an officer authorised by him in this behalf, not 
+below the rank of an Assistant Commissioner, having reasons to believe that 
+credit of input tax available in the electronic credit ledger has been fraudulently 
+availed or is ineligible in as much as - 
+ (a)  the credit of input tax has been availed on the strength of tax invoices or 
+debit notes or any other document prescribed under rule 36 -
+
+Document 20: of any liability under section 49 or for claim of any refund of any  
+unutilised amount. 
+(2) The Commissioner, or the officer authorised by him under sub -rule (1) 
+may, upon being satisfied that conditions for disallowing debit of electronic 
+credit ledger as above, no longer exist, allow such debit.  
+(3) Such restriction shall cease to have effect after the expiry of a period of 
+one year from the date of imposing such restriction. 
+10. Restrictions on use of amount available in electronic credit ledger - Rule 
+86B of CGST Rules 
+Notwithstanding anything contained in these rules, the registered person shall 
+not use the amount available in electronic credit ledger to di scharge his liability 
+towards output tax in excess of ninety -nine per cent. of such tax liability, in cases 
+where the value of taxable supply other than exempt supply and zero -rated 
+supply, in a month exceeds fifty lakh rupees:  
+Provided that the said restriction shall not apply where —","{'question_type': 'complex', 'seed_document_id': 18, 'topic': 'GST Taxation Procedures'}"
+"Could you specify the exact date on which the petitioner is required to present themselves before the first appellate authority, the Additional Commissioner of CT & GST?","The petitioner is expected to appear before the appellate authority on 11th September, 2023.","Document 55: Department. The appeal will now be listed before the 1st appellate authority  i.e., 
+the Additional Commi ssioner of CT & GST on 11th September, 2023. The 
+Petitioner will appear on that date before the appellate author ity along with a 
+downloaded copy of this order. The appeal thereafter be disposed of afresh after 
+hearing the petitioner and the Department within a period of three months 
+thereafter. 
+*******","{'question_type': 'complex', 'seed_document_id': 55, 'topic': 'Others'}"
+Could you provide me with the information contained in section 50 of Document 34?,The context does not provide information on the content of section 50.,Document 34: of section 50.,"{'question_type': 'complex', 'seed_document_id': 34, 'topic': 'Others'}"
+"What are the available methods for depositing tax, interest, penalty, fees or any other amount under GST, considering the condition that Over the Counter payments through authorised banks are only allowed for deposits up to ₹10,000 per challan per tax period?","The deposit can be made through any of the following modes: Internet banking through authorised banks, Unified Payment Interface (UPI) from any bank, Immediate Payment Services (IMPS) from any bank, Credit card or Debit card through the authorised bank, National Electronic Fund Transfer or Real Time Gross Settlement from any bank.","Document 23: interest, penalty, late fee or any other amount, on the common portal for 
+crediting the amount deposited and debiting the payment there from 
+towards tax, interest, penalty, fee or any other amount.  
+ (2) Any person, or a person on his behalf, shall generate a cha llan in FORM 
+GST PMT-06 on the common portal and enter the details of the amount 
+to be deposited by him towards tax, interest, pen alty, fees or any other 
+amount. 
+  Provided that the challan in FORM GST PMT -06 generated at the 
+common portal shall be valid for a period of fifteen days.  
+ (3) The deposit under sub -rule (2) shall be made through any of the 
+following modes, namely:— 
+ (i) Internet banking through authorised banks;  
+ (ia)  Unified Payment Interface (UPI) from any bank;  
+ (ib)  Immediate Payment Services (IMPS) from any bank;]  
+ (ii) Credit card or Debit card through the authorised bank;  
+ (iii) National Electronic Fund Transfer o r Real Time Gross Settl ement 
+from any bank; or
+
+Document 25: (a) Government Departments or a ny other deposit to be made by 
+persons as may be notified by the Commi ssioner in this behalf;  
+ (b) Proper officer or any other officer authorised to recover 
+outstanding dues from any person, whether registered or not, 
+including recovery made through attach ment or sale of movable 
+or immovable properties; 
+ (c) Proper officer or any other officer authorised for the amounts 
+collected by way of cash, cheque or demand draft during any 
+investigation or enforcement activity or any ad hoc deposit:  
+  Provided that the challan in FORM GST PMT-06 generated at 
+the common portal shall be valid for a period of 15 days.  
+Provided further that a person supplying online information and database 
+access or retrieval services from a place outside India to a non -taxable 
+online recipient referred to in section 14  or a person supplying online  
+money gaming from a place outside India to a person in India as referred
+
+Document 28: (8) Where the bank accoun t of the person concerned, or the pe rson making 
+the deposit on his behalf, is debited but no Challan Identification Number 
+is generated or generated but not communicated to the common portal, 
+the said person may represent electronically in FORM GST PMT-07 
+through the common portal to the bank or electronic gateway through 
+which the deposit was initiated.  
+“Provided that where the bank fails to communicate details of Challan  
+Identification Number to the Common Portal, the Electronic Cash Ledger 
+may be updated on the basis of e-Scroll of the Reserve Bank of India in 
+cases where the details of the said e -Scroll are in conformity with the 
+details in challan generated in FORM GST PMT -06 on the Common 
+Portal.” 
+(9) Any amount deducted under section 51 or collected under  section 52 and 
+claimed by the registered taxable person from whom the said amount 
+was deducted or, as the case may be, collected shall be credited to his
+
+Document 30: file an appeal. 
+ (13)  A registered person may, on the common portal, transfer any amount of 
+tax, interest, penalty, fee or any other amount available in the electronic 
+cash ledger under the Act to the electronic cash ledger for integrated tax, 
+central tax, State tax or Union territory tax or cess in FORM GST PMT-
+09. 
+ (14) Cash deposits in electronic cash ledger in GST portal, now can be 
+made through UPI and IMPS payment m odes. 
+A registered person may, on the common portal, transfer any amount of 
+tax, interest, penalty, fee or any other amount available in the  electronic 
+cash ledger under the Act  to the electronic cash ledger for central tax or","{'question_type': 'distracting element', 'seed_document_id': 23, 'distracting_context': 'from any bank; or \n (iv) Over the Counter payment through authorised banks for deposits up \nto ₹10,000/- per challan per tax period, by cash, cheque or demand \ndraft: \n  Provided that the restriction for deposit up to ₹10,000/- per challan in \ncase of an Over the Counter payment shall not apply to deposit to be \nmade by—', 'topic': 'GST Taxation Procedures'}"
+"According to section 50, what are the three types of electronic ledgers that taxpayers are required to maintain under the GST regime?","In the GST regime, all taxpayers have to maintain 3 types of electronic ledgers on Common GSTN portal namely, Electronic Liability Ledger, Electronic Credit ledger and Electronic Cash Ledger.","Document 11: liability under sub-section (10) of section 43, shall pay interest on such undue or 
+excess claim or on such undue or excess reduction, as the case may be, at such 
+rate not exceeding twenty -four per cent., as may be notified by the Government 
+on the recommendations of the Council.  
+6. Procedures of maintenance of electronic ledger  
+Rule 85, 86 & 87 of the CGST Rules, 2017 has prescribed that in the GST 
+regime, all taxpayers have to maintain 3 types of electronic ledgers on Common 
+GSTN portal namely, Electronic Liability L edger, Electronic Cre dit ledger and 
+Electronic Cash Ledger. 
+7. Electronic Liability Ledger - Rule 85 of CGST Rules  
+Rule 85 of CGST Rules, 2017 has specifi ed Electronic Liability Ledger and 
+the details of liability shall be recorded and credited in this ledger as u nder:— 
+ (1) The electronic liability register specified under sub -section (7) of Section 
+49 shall be maintained in FORM GST PMT-01 on the Common GSTN
+
+Document 22: (d)  the registered person has discharged his liability towards ou tput tax 
+through the electronic cash ledger for an amount which is in excess of 
+1% of the total output tax liability, applied cumulatively,  upto the said 
+month in the current f inancial year; or 
+ (e)  the registered person is - 
+ (i)  Government Department; or 
+ (ii)  a Public Sector Undertaking; or  
+ (iii) a local authority; or 
+ (iv)  a statutory body: 
+Provided further that the Commissioner or an officer authorised by him in 
+this behalf may remove the said restriction after such verifications and such 
+safeguards as he may deem fit.  
+11. Electronic Cash Ledger - Rule 87 of CGST Rules  
+Rule 87 of the CGST Rules, 2017 specified for Electronic Cash ledger shall 
+be maintained electronically on Common GSTN Portal as per the following 
+guidelines: 
+ (1) The electronic cash ledger under sub-section (1) of Section 49 shall be 
+maintained in FORM GST PMT-05 for each person, liable to pay tax,
+
+Document 14: the payment of tax, interest and penalty specified in the show cause 
+notice or demand order and the electronic liability register shall be 
+credited accordingly.  
+ (7) A registered person shall, upon noticing any discrepancy in his electronic 
+liability ledger, communicat e the same to the officer exercising 
+jurisdiction in the matter, through the common portal in FORM GST 
+PMT-04. 
+8. Electronic Credit Ledger - Rule 86 of CGST Rules  
+Rule 86 of the CGST Rules, 2017 specified for Electronic Credit ledger all 
+the taxes paid on inputs goods, capital goods, inputs services, tax paid reverse 
+charge and credit received through ISD shall be recorded and credited in the 
+ledger shall be maintained as under:  
+ (1) The electronic credit ledger shall be maintained in FORM GST PMT-02 
+for each registered person eligible for input tax credit under the Act on 
+the common portal and every claim of input tax credit under the Act shall 
+be credited to the said ledger.
+
+Document 3: 2. Statutory provisions for payment of Tax 
+Section 49 of the CGST Act, 2017 has prescribed the manner of payment of 
+tax, interest, penalty and other amounts in the following ways: 
+ (1) Every deposit made by a person by internet banking or by using 
+prescribed mode of payment or cash (OTC) shall be credited to the  
+electronic cash ledger of such person to be maintained in such manne r as 
+may be prescribed. 
+ (2) The input tax credit as self -assessed in the return of a regi stered person 
+shall be credited to his electronic credit ledger, in accordance with 
+Section 41; to be maintained in such manner as may be prescribed.  
+ (3) The amount available in the electronic cash ledger may be used for 
+making any payment towards tax, interest, penalty, fees or any other 
+amount payable under the provisions of this Act or the rules made 
+thereunder in such manner and subject to such conditions and with in 
+such time as may be prescribed.","{'question_type': 'distracting element', 'seed_document_id': 11, 'distracting_context': 'of section 50.', 'topic': 'GST Taxation Procedures'}"
+"Considering the amendment made retrospectively from 1st July, 2017, what is the maximum proportion of output tax liability that can be discharged through the electronic credit ledger?",The Government may specify the maximum proportion of output tax liability which may be discharged through the electronic credit ledger for specified class of registered persons.,"Document 7: (11)  where any amount has been transferred to the electronic cash ledger 
+under this Act, the same shall be deemed to be deposited in the said 
+ledger as provided in sub -section (1).” Notified vide Notification 
+No.1/2020-Central Tax dated 1.1.20 20. 
+ (12)  Maximum payment of output taxes allowed from electronic ledger:  The 
+Government may specify the maximum propo rtion of output tax liability 
+which may be discharged through the electronic credit ledger for 
+specified class of registered persons. The  balance has to be paid through 
+the electronic cash ledger. Vide Notification No. 18/2022-Central Tax, 
+dated 28.09.2022. 
+3. Utilisation of input tax credit subject to certain cond itions - Section 49A of 
+CGST Act 
+Notwithstanding anything contained in sectio n 49, the input tax credit on 
+account of central tax, State tax or Union territory tax shall be utilised towards 
+payment of integrated tax, central tax, State tax or Union territory tax, as the case
+
+Document 4: (4) The amount available in the electronic credit ledger may be used for 
+making any payment towards output tax under this Act or under the 
+Integrated Goods and Services Tax Act in such manner and subject to 
+such conditions and within such time as may be pr escribed. 
+ (5) The amount of input tax credit available in the electronic credit ledger of 
+the registered person shall be utilized as per prescribed provisions. 
+Accordingly, credit on account of IGST, CGST, SGST and UTGS T shall 
+be utilized and adjusted in the ledger. 
+ (6) The balance in the electronic cash ledger or electronic credit ledger after 
+payment of tax, interest, penalty, fee or any other amount payable under 
+this Act or the rules made thereunder may be refunded in accordance 
+with the provisions of Section 54.  
+ (7) All liabilities of a taxable person under this Act shall be re corded and 
+maintained in an electronic liability register in such manner as may be 
+prescribed.
+
+Document 22: (d)  the registered person has discharged his liability towards ou tput tax 
+through the electronic cash ledger for an amount which is in excess of 
+1% of the total output tax liability, applied cumulatively,  upto the said 
+month in the current f inancial year; or 
+ (e)  the registered person is - 
+ (i)  Government Department; or 
+ (ii)  a Public Sector Undertaking; or  
+ (iii) a local authority; or 
+ (iv)  a statutory body: 
+Provided further that the Commissioner or an officer authorised by him in 
+this behalf may remove the said restriction after such verifications and such 
+safeguards as he may deem fit.  
+11. Electronic Cash Ledger - Rule 87 of CGST Rules  
+Rule 87 of the CGST Rules, 2017 specified for Electronic Cash ledger shall 
+be maintained electronically on Common GSTN Portal as per the following 
+guidelines: 
+ (1) The electronic cash ledger under sub-section (1) of Section 49 shall be 
+maintained in FORM GST PMT-05 for each person, liable to pay tax,
+
+Document 3: 2. Statutory provisions for payment of Tax 
+Section 49 of the CGST Act, 2017 has prescribed the manner of payment of 
+tax, interest, penalty and other amounts in the following ways: 
+ (1) Every deposit made by a person by internet banking or by using 
+prescribed mode of payment or cash (OTC) shall be credited to the  
+electronic cash ledger of such person to be maintained in such manne r as 
+may be prescribed. 
+ (2) The input tax credit as self -assessed in the return of a regi stered person 
+shall be credited to his electronic credit ledger, in accordance with 
+Section 41; to be maintained in such manner as may be prescribed.  
+ (3) The amount available in the electronic cash ledger may be used for 
+making any payment towards tax, interest, penalty, fees or any other 
+amount payable under the provisions of this Act or the rules made 
+thereunder in such manner and subject to such conditions and with in 
+such time as may be prescribed.","{'question_type': 'distracting element', 'seed_document_id': 7, 'distracting_context': 'of output tax liability which is discharged by way of cash. The said proviso has \nbeen notified vide Notification No.  63/2020-CT., dated 20.08.2020 with effect \nfrom 1-09-2021. This is in line with recom mendation of 39th GST Council \nmeeting. With this amendment the issue  of payment of tax on gross tax liability \nwill now finally settle. Now, Se ction 50(1) of the CGST Act has been amended \nretrospectively from 1st July, 2017 so as to charge interest on delayed payment of \nGST on net cash liability.  \n22. Case Law \nSECTION 50 OF THE CENTRAL GOODS AND SERVICES TAX ACT, \n2017 - PAYMENT OF TAX - INTEREST ON DELAYED PAYMENT  \nInterest was chargeable only on tax amount paid by debiting electronic cash \nledger and not on amount paid by debiting electronic credit ledger in respect of \nreturns filed after due date  - Utkal Automobiles (P.) Ltd. v Union of India \n[2022] 142 taxmann.com 116 (Orissa) \n* * * \nSECTION 49 (4) OF THE CENTRAL GOODS AND SERVICES TAX', 'topic': 'GST Taxation Procedures'}"
+"As a tax accountant, I'm currently verifying the calculation for my client's output tax liability and the utilization from the electronic credit ledger as per the CGST rules. Can you tell me what happens if a refund claim from this ledger is rejected?","If the refund so filed is rejected, either fully or partly, the amount debited under sub-rule (3), to the extent of rejection, shall be re-credited to the electronic credit ledger by the proper officer by an order made in FORM GST PMT-03.","Document 20: of any liability under section 49 or for claim of any refund of any  
+unutilised amount. 
+(2) The Commissioner, or the officer authorised by him under sub -rule (1) 
+may, upon being satisfied that conditions for disallowing debit of electronic 
+credit ledger as above, no longer exist, allow such debit.  
+(3) Such restriction shall cease to have effect after the expiry of a period of 
+one year from the date of imposing such restriction. 
+10. Restrictions on use of amount available in electronic credit ledger - Rule 
+86B of CGST Rules 
+Notwithstanding anything contained in these rules, the registered person shall 
+not use the amount available in electronic credit ledger to di scharge his liability 
+towards output tax in excess of ninety -nine per cent. of such tax liability, in cases 
+where the value of taxable supply other than exempt supply and zero -rated 
+supply, in a month exceeds fifty lakh rupees:  
+Provided that the said restriction shall not apply where —
+
+Document 22: (d)  the registered person has discharged his liability towards ou tput tax 
+through the electronic cash ledger for an amount which is in excess of 
+1% of the total output tax liability, applied cumulatively,  upto the said 
+month in the current f inancial year; or 
+ (e)  the registered person is - 
+ (i)  Government Department; or 
+ (ii)  a Public Sector Undertaking; or  
+ (iii) a local authority; or 
+ (iv)  a statutory body: 
+Provided further that the Commissioner or an officer authorised by him in 
+this behalf may remove the said restriction after such verifications and such 
+safeguards as he may deem fit.  
+11. Electronic Cash Ledger - Rule 87 of CGST Rules  
+Rule 87 of the CGST Rules, 2017 specified for Electronic Cash ledger shall 
+be maintained electronically on Common GSTN Portal as per the following 
+guidelines: 
+ (1) The electronic cash ledger under sub-section (1) of Section 49 shall be 
+maintained in FORM GST PMT-05 for each person, liable to pay tax,
+
+Document 18: refund shall be deemed to be rejected, if the appeal is finally rejected or if the 
+claimant gives an undertaking to the proper officer that he shall not file an 
+appeal. 
+9. Conditions of use of amount available in electronic credit led ger - Rule 
+86A CGST Rules 
+(1) The Commissioner or an officer authorised by him in this behalf, not 
+below the rank of an Assistant Commissioner, having reasons to believe that 
+credit of input tax available in the electronic credit ledger has been fraudulently 
+availed or is ineligible in as much as - 
+ (a)  the credit of input tax has been availed on the strength of tax invoices or 
+debit notes or any other document prescribed under rule 36 -
+
+Document 15: (2) The electronic credit ledger shall be debited to the extent of discharge of 
+any liability in accordance with the provisions of Section 49  for section 
+49A or section 49B. 
+➢ Amount of refund to the extent of claim debited to the ele ctronic credit 
+ledger: 
+ (3) Where a registered person has claimed refund of any unut ilized amount 
+from the electronic credit ledger in accordance with the provisions of 
+Section 54, the amount to the extent of the claim shall be debited in the 
+said ledger. 
+ (4) If the refund so filed is rejected, either fully or partly, the amount debited 
+under sub-rule (3), to the extent of rejection, shall be re -credited to the 
+electronic credit ledger by the proper officer by an order made in FORM 
+GST PMT-03.","{'question_type': 'situational', 'seed_document_id': 20, 'situational_context': ""A tax accountant is verifying the calculation for his client's output tax liability and the utilization from the electronic credit ledger as per the CGST rules."", 'topic': 'GST Taxation Procedures'}"
+"As a business owner who has just established a new firm, I'm trying to understand the various provisions and rules pertaining to tax, interest, penalties, and other payable amounts as per the GST Act. Could you tell me how I can report a discrepancy in my electronic liability ledger if I find one?","A registered person can report a discrepancy in their electronic liability ledger by communicating the same to the officer exercising jurisdiction in the matter, through the common portal in FORM GST PMT-04.","Document 12: portal. All liabilities accruing and payable by a taxable person will be 
+recorded in this register and shall be debited to the said register.  
+ (2) The electronic liability register of the person shall b e debited the 
+following amounts: 
+(a) the amount payable towards tax, interest, late fee or any other 
+amount payable as per the return furnished by the said person;  
+(b) the amount of tax, interest, penalty or any other amount payable as 
+determined by a proper officer in pursuance of any proceedings 
+under the Act or as ascertained by the said person;  
+(c) Omitted 
+(d) any amount of interest that may accrue from time to time.  
+ (3) Subject to the provisions of Section 49, section 49A and section 49B 
+payment of every liability by a registered person as per his re turn shall be 
+made by debiting the electronic credit ledger maintained as per Rule 86
+
+Document 13: or the electronic cash ledger maintained as per Rule 87 and the ele ctronic 
+liability register shall be credited a ccordingly. 
+ (4) The amount deducted under Section 51, or  the amount collected under 
+Section 52, or the amount payable on reverse charge basis, or the amount 
+payable under Section 10, any amount payable towards interest, penalty, 
+fee or any other amount under the Act shall be paid by debiting the 
+electronic cash ledger maintained as per Rule 87 and the electronic 
+liability register shall be credited accordingly.  
+ (5) Any amount of demand debited in the electronic liability register shall 
+stand reduced to the extent of relief given by the appellate authority or 
+Appellate Tribunal or Court and the electronic tax liability register shall 
+be credited accordingly. 
+ (6) The amount of penalty imposed or liable to be imposed shall stand 
+reduced partly or fully, as the case may be, if the taxable person makes
+
+Document 14: the payment of tax, interest and penalty specified in the show cause 
+notice or demand order and the electronic liability register shall be 
+credited accordingly.  
+ (7) A registered person shall, upon noticing any discrepancy in his electronic 
+liability ledger, communicat e the same to the officer exercising 
+jurisdiction in the matter, through the common portal in FORM GST 
+PMT-04. 
+8. Electronic Credit Ledger - Rule 86 of CGST Rules  
+Rule 86 of the CGST Rules, 2017 specified for Electronic Credit ledger all 
+the taxes paid on inputs goods, capital goods, inputs services, tax paid reverse 
+charge and credit received through ISD shall be recorded and credited in the 
+ledger shall be maintained as under:  
+ (1) The electronic credit ledger shall be maintained in FORM GST PMT-02 
+for each registered person eligible for input tax credit under the Act on 
+the common portal and every claim of input tax credit under the Act shall 
+be credited to the said ledger.","{'question_type': 'situational', 'seed_document_id': 12, 'situational_context': 'A business owner is trying to understand the various provisions and rules pertaining to tax, interest, penalties, and other payable amounts as per the GST Act for their newly established firm.', 'topic': 'Others'}"
+"How can the amount available in the electronic credit ledger be used and what is the prescribed manner of payment of tax, interest, penalty and other amounts according to Section 49 of the CGST Act, 2017?","The amount available in the electronic credit ledger may be used for making any payment towards output tax under this Act or under the Integrated Goods and Services Tax Act in such manner and subject to such conditions and within such time as may be prescribed. Every deposit made by a person by internet banking or by using prescribed mode of payment or cash (OTC) shall be credited to the electronic cash ledger of such person to be maintained in such manner as may be prescribed. The input tax credit as self-assessed in the return of a registered person shall be credited to his electronic credit ledger, in accordance with Section 41; to be maintained in such manner as may be prescribed.","Document 4: (4) The amount available in the electronic credit ledger may be used for 
+making any payment towards output tax under this Act or under the 
+Integrated Goods and Services Tax Act in such manner and subject to 
+such conditions and within such time as may be pr escribed. 
+ (5) The amount of input tax credit available in the electronic credit ledger of 
+the registered person shall be utilized as per prescribed provisions. 
+Accordingly, credit on account of IGST, CGST, SGST and UTGS T shall 
+be utilized and adjusted in the ledger. 
+ (6) The balance in the electronic cash ledger or electronic credit ledger after 
+payment of tax, interest, penalty, fee or any other amount payable under 
+this Act or the rules made thereunder may be refunded in accordance 
+with the provisions of Section 54.  
+ (7) All liabilities of a taxable person under this Act shall be re corded and 
+maintained in an electronic liability register in such manner as may be 
+prescribed.
+
+Document 7: (11)  where any amount has been transferred to the electronic cash ledger 
+under this Act, the same shall be deemed to be deposited in the said 
+ledger as provided in sub -section (1).” Notified vide Notification 
+No.1/2020-Central Tax dated 1.1.20 20. 
+ (12)  Maximum payment of output taxes allowed from electronic ledger:  The 
+Government may specify the maximum propo rtion of output tax liability 
+which may be discharged through the electronic credit ledger for 
+specified class of registered persons. The  balance has to be paid through 
+the electronic cash ledger. Vide Notification No. 18/2022-Central Tax, 
+dated 28.09.2022. 
+3. Utilisation of input tax credit subject to certain cond itions - Section 49A of 
+CGST Act 
+Notwithstanding anything contained in sectio n 49, the input tax credit on 
+account of central tax, State tax or Union territory tax shall be utilised towards 
+payment of integrated tax, central tax, State tax or Union territory tax, as the case
+
+Document 44: ITC Credit to be Set off  Manner of Utilisation of ITC  
+IGST Output IGST Input > CGST Input > SGST 
+Input 
+CGST Output IGST Input > CGST Input  
+SGST Output IGST Input > SGST Input  
+CBIC, CIRCULAR  
+18. Clarification on utilisation of the amounts avai lable in the electronic 
+credit ledger and electronic cash ledger for payme nt of tax and other 
+liabilities 
+➢ It is clarified that any payment towards output tax, whether self -assessed 
+in the return or payable as a consequence of any proceeding instituted 
+under the provisions of GST Laws, can be made by utilization of the 
+amount available in the electronic credit ledger of a registered person. 
+Section 49(2) of the CGST Act.  
+➢ It is further reiterated that as output tax does not include tax payable 
+under RCM thereby the electronic credit ledger cannot be used for 
+making payment of any tax which is payable under RCM.  
+➢ Section 49(4), the electronic credit ledger cannot be used for making
+
+Document 3: 2. Statutory provisions for payment of Tax 
+Section 49 of the CGST Act, 2017 has prescribed the manner of payment of 
+tax, interest, penalty and other amounts in the following ways: 
+ (1) Every deposit made by a person by internet banking or by using 
+prescribed mode of payment or cash (OTC) shall be credited to the  
+electronic cash ledger of such person to be maintained in such manne r as 
+may be prescribed. 
+ (2) The input tax credit as self -assessed in the return of a regi stered person 
+shall be credited to his electronic credit ledger, in accordance with 
+Section 41; to be maintained in such manner as may be prescribed.  
+ (3) The amount available in the electronic cash ledger may be used for 
+making any payment towards tax, interest, penalty, fees or any other 
+amount payable under the provisions of this Act or the rules made 
+thereunder in such manner and subject to such conditions and with in 
+such time as may be prescribed.","{'question_type': 'double', 'original_questions': [{'question': 'How can the amount available in the electronic credit ledger be used?', 'answer': 'The amount available in the electronic credit ledger may be used for making any payment towards output tax under this Act or under the Integrated Goods and Services Tax Act in such manner and subject to such conditions and within such time as may be prescribed.'}, {'question': 'What is the prescribed manner of payment of tax, interest, penalty and other amounts according to Section 49 of the CGST Act, 2017?', 'answer': 'Every deposit made by a person by internet banking or by using prescribed mode of payment or cash (OTC) shall be credited to the electronic cash ledger of such person to be maintained in such manner as may be prescribed. The input tax credit as self-assessed in the return of a registered person shall be credited to his electronic credit ledger, in accordance with Section 41; to be maintained in such manner as may be prescribed.'}], 'seed_document_id': 4, 'topic': 'GST Taxation Procedures'}"
+"What happens when the tax payable in accordance with the statement of outward supplies exceeds the amount of tax payable in the return, and what is the procedure when the amount of input tax credit availed by a registered person in the return exceeds the input tax credit available to such person?","In both cases, the registered person shall be intimated of such difference electronically on the common portal and a copy of such intimation shall also be sent to his e-mail address. For the first case, the intimation will be in Part A of FORM GST DRC -01B, and for the second case, it will be in Part A of FORM GST DRC- 01C.","Document 36: wrongly availed, in all other cases. 
+15. Intimation difference of GSTR-1 Vs. GSTR-3B - Rule 88C of CGST 
+Rules, 2017 
+Rule 88C Manner of dealing with difference in liability reported in 
+statement of outward supplies and that reported in return .—(1) Where the tax 
+payable by a registered person, in accordance with t he statement of outward 
+supplies furnished by him in FORM GSTR -1or using the Invoice Furnishing 
+Facility in respect of a tax period, exceeds the amount of tax payable by such 
+person in accordance with the return for that period furnished by him in FORM 
+GSTR-3B,by such amount and such percentage, as may be recommended by the 
+Council, the said registered pe rson shall be intimated of such difference in Part A 
+of FORM GST DRC -01B, electronically on the common portal, and a copy of 
+such intimation shall also be sent to his e-mail address provided at the time of 
+registration or as amended from time to time, highlighting the said difference and 
+directing him to—
+
+Document 38: within the period specified in the said sub -rule. 
+(3) Where any amount specified in the intimation referred to in sub -rule (1) 
+remains unpaid within the period specified in that sub -rule and where no 
+explanation or reason is furnished by the registered person in default or where the 
+explanation or reason furnished by such person is not found to be acceptable by 
+the proper officer, the said amount shall be recoverable in accordance with the  
+provisions of section 79. 
+15.2 Intimation of difference in ITC available in GSTR -2B and availed 
+GSTR-3B. 
+In order to align the CGST Rules with recommendations of the 50th GST 
+Council Meeting the CBIC vide  Notification No. 38/2023 –Central Tax dated 
+August 04, 2022 issued ‘the Central Goods and Services Tax (Second 
+Amendment) Rules, 2023’ to further amend the CGST Rule s. 
+“88D. Manner of dealing with difference in input tax credit available 
+in auto-generated statement containing the details of input tax credit and
+
+Document 1: 14.  Manner of calculating interest on delayed payment of tax - Rule 88B of 
+CGST Rules  358 
+15.  Intimation difference of GSTR -1 Vs. GSTR -3B - Rule 88C of CGST Rules, 
+2017  359 
+15.1 Intimation of difference in ITC available in GSTR -2B and availed 
+GSTR -3B. 360 
+16.  Key steps for generation of Cha llan on common portal  361 
+17.  Order of Cross Utilisation of input tax credit is being rationalized  361 
+18.  Clarification on ut ilisation of the amounts available in the electronic credit 
+ledger and electronic cash ledger for payment of tax and other liabilities  362 
+19.  Interest on delayed payment of tax  362 
+20.  Manner of payment of Taxes  363 
+21.  Payment of Interest on Net Cash Liability – Section 50 of CGST Act:  364 
+22.  Case Law  364 
+ 
+1. Introduction  
+The registered person shall discharge his tax liability or dues on supplies of 
+goods and services electronically on Common portal in the GST regime.  The
+
+Document 39: that availed in return. — 
+Where the amount of input tax credit availed by a registered person in 
+the return for a tax period or periods furnished by him in FORM GSTR -3B 
+exceeds the input tax credit available to such person in accordance with the 
+auto-generated statement containing the details of input tax credit in FORM 
+GSTR-2B in respect of the said tax period o r periods, as the case may be, by 
+such amount and such percentage, as may be recommended by the Council, 
+the said registered pe rson shall be intimated of such difference in Part A of 
+FORM GST DRC- 01C, electronically on the common portal, and a copy of 
+such intimation shall also be sent to his e -mail address provided at the time 
+of registration or as amended from time to time, hi ghlighting the said 
+difference and directing him to — 
+(a)  pay an amount equal to the excess input tax credit availed in the said 
+FORM GSTR-3B, along with interest payable under section 50, 
+through FORM GST DRC -03, or","{'question_type': 'double', 'original_questions': [{'question': 'What happens when the tax payable in accordance with the statement of outward supplies exceeds the amount of tax payable in the return?', 'answer': 'The registered person shall be intimated of such difference in Part A of FORM GST DRC -01B, electronically on the common portal, and a copy of such intimation shall also be sent to his e-mail address.'}, {'question': 'What is the procedure when the amount of input tax credit availed by a registered person in the return exceeds the input tax credit available to such person?', 'answer': 'The registered person shall be intimated of such difference in Part A of FORM GST DRC- 01C, electronically on the common portal, and a copy of such intimation shall also be sent to his e-mail address.'}], 'seed_document_id': 36, 'topic': 'GST Taxation Procedures'}"
+What is the order?,"A registered person would be able to utilize credit on account of CGST, SGST/UTGST once the registered person exhausted all the ITC on account of IGST.","Document 43: modified and is valid for a period of 15 days.  
+17. Order of Cross Utilisation of input ta x credit is being rationalized  
+As per decision of 28th meeting of the GST Council , a registered person 
+would be able to utilize credit on account of CGST, SGST/UTGST once t he 
+registered person exhausted all the ITC on a ccount of IGST. 
+As per section 49 of the CGST Act, 2017 and inserted new provisions 49A 
+vide (Amendment) Act, 2018 and the manner of utilization of ITC is summarize d 
+in the below table: (w.e.f. 1 st February, 2019)","{'question_type': 'conversational', 'seed_document_id': 43, 'topic': 'GST Tax Payment Regulations'}"
+What should be done in this case?,"The person may represent electronically in FORM GST PMT-07 through the common portal to the bank or electronic gateway through which the deposit was initiated. If the bank fails to communicate details of Challan Identification Number to the Common Portal, the Electronic Cash Ledger may be updated on the basis of e-Scroll of the Reserve Bank of India in cases where the details of the said e-Scroll are in conformity with the details in challan generated in FORM GST PMT -06 on the Common Portal.","Document 31: integrated tax of a distinct person as Specified in sub-section (4) or, as 
+the case may be, sub-Section (5) of section 25, in FORM GST PMT-09:  
+Provided that no such transfer shall be allowed if the  said registered 
+person has any unpaid liability in his electronic liability regi ster. 
+12. Identification number for each transaction - Rule 88 of CGST Rules  
+Rule 88 of the CGST Rules, 2017 specified Identification number for each 
+transaction shall be generated at the c ommon GSTN Portal and the details of 
+principles as under: 
+ (1) A unique identification number shall be generated at the common portal 
+for each debit or credit to the electronic cash or credit ledger, as the case 
+may be. 
+ (2) The unique identification number relating to discharge of any liability 
+shall be indicated in the corres ponding entry in the electronic liability 
+register. 
+ (3) A unique identification number shall be generated at the common portal
+
+Document 28: (8) Where the bank accoun t of the person concerned, or the pe rson making 
+the deposit on his behalf, is debited but no Challan Identification Number 
+is generated or generated but not communicated to the common portal, 
+the said person may represent electronically in FORM GST PMT-07 
+through the common portal to the bank or electronic gateway through 
+which the deposit was initiated.  
+“Provided that where the bank fails to communicate details of Challan  
+Identification Number to the Common Portal, the Electronic Cash Ledger 
+may be updated on the basis of e-Scroll of the Reserve Bank of India in 
+cases where the details of the said e -Scroll are in conformity with the 
+details in challan generated in FORM GST PMT -06 on the Common 
+Portal.” 
+(9) Any amount deducted under section 51 or collected under  section 52 and 
+claimed by the registered taxable person from whom the said amount 
+was deducted or, as the case may be, collected shall be credited to his
+
+Document 22: (d)  the registered person has discharged his liability towards ou tput tax 
+through the electronic cash ledger for an amount which is in excess of 
+1% of the total output tax liability, applied cumulatively,  upto the said 
+month in the current f inancial year; or 
+ (e)  the registered person is - 
+ (i)  Government Department; or 
+ (ii)  a Public Sector Undertaking; or  
+ (iii) a local authority; or 
+ (iv)  a statutory body: 
+Provided further that the Commissioner or an officer authorised by him in 
+this behalf may remove the said restriction after such verifications and such 
+safeguards as he may deem fit.  
+11. Electronic Cash Ledger - Rule 87 of CGST Rules  
+Rule 87 of the CGST Rules, 2017 specified for Electronic Cash ledger shall 
+be maintained electronically on Common GSTN Portal as per the following 
+guidelines: 
+ (1) The electronic cash ledger under sub-section (1) of Section 49 shall be 
+maintained in FORM GST PMT-05 for each person, liable to pay tax,
+
+Document 14: the payment of tax, interest and penalty specified in the show cause 
+notice or demand order and the electronic liability register shall be 
+credited accordingly.  
+ (7) A registered person shall, upon noticing any discrepancy in his electronic 
+liability ledger, communicat e the same to the officer exercising 
+jurisdiction in the matter, through the common portal in FORM GST 
+PMT-04. 
+8. Electronic Credit Ledger - Rule 86 of CGST Rules  
+Rule 86 of the CGST Rules, 2017 specified for Electronic Credit ledger all 
+the taxes paid on inputs goods, capital goods, inputs services, tax paid reverse 
+charge and credit received through ISD shall be recorded and credited in the 
+ledger shall be maintained as under:  
+ (1) The electronic credit ledger shall be maintained in FORM GST PMT-02 
+for each registered person eligible for input tax credit under the Act on 
+the common portal and every claim of input tax credit under the Act shall 
+be credited to the said ledger.","{'question_type': 'conversational', 'seed_document_id': 31, 'topic': 'Others'}"
